@@ -1,5 +1,5 @@
-import { cardComponent } from "../components/cardComponents.js";
-import { products } from "../data/products.js";
+import { cardComponent } from "../component/cardComponent.js";
+import { products } from "../data/product.js";
 
 let renderArea = document.querySelector("#card-area");
 
